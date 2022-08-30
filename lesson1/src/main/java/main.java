@@ -13,8 +13,7 @@ public class main {
         zadanie3();
 
     }
-
-
+    
     //Задание 1
     public static <T> void swap(T[] array, int firstIndex, int secondIndex) {
         if (firstIndex > array.length || secondIndex > array.length) {

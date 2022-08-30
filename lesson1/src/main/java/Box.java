@@ -28,5 +28,4 @@ public class Box<T extends Fruit> {
 
     }
 
-
 }
